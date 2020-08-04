@@ -1,7 +1,8 @@
 # Angular-Architecture
 > This repository contains the architecture of the angular application such as:
+- Modules
 - Components
-- Interpolation
+- Dependency Injection
 - Binding
 - Pipes
 - Service

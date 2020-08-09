@@ -7,5 +7,5 @@
 - Pipes
 - Service
 - HTTP and Observables
-- Routing and Navigation
+- Routing and Navigation\
 And all these above concepts are hard coded in [Visual Studio Code](https://code.visualstudio.com/)
